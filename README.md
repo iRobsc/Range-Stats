@@ -1,2 +1,2 @@
-# Range_Stats
+# Range Stats
 Stats for Range scores
