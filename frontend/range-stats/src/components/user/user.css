@@ -1,0 +1,51 @@
+h1, h2, h3, h4 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: normal;
+}
+
+.user-header {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    width: 100%;
+    height: 46px;
+    line-height: 46px;
+    padding: 0 20px 0 20px;
+    color: white;
+    background-color: #0E1A26;
+}
+
+.user-session {
+    width: auto;
+    padding: 20px;
+    color: #444444;
+    background-color: #F8F8F8;
+}
+
+.user-finalized-input {
+    display: inline-block;
+    min-width: 10px;
+    padding: 5px 10px 5px 10px;
+    margin: 10px 0 10px 0;
+    color: #ffffff;
+    border-radius: 6px;
+    background-color: #FF4654;
+}
+
+.new-user-session {
+    width: auto;
+    padding: 20px;
+    color: #444444;
+    background-color: rgb(255, 255, 255);
+}
+
+.session-input-container {
+    box-sizing: border-box;
+    width: 100%;
+    resize: none;
+    margin: 10px 0 10px 0;
+    padding: 5px;
+    border-radius: 6px;
+    border: 1px solid #444444;
+}
